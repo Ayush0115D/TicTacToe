@@ -4,6 +4,8 @@ padding: 0;
 }
 body{
     background-color: #548687;
+    color: rgb(17, 16, 66);
+    font-size: 1.5rem;
 text-align: center;
 }
 .container{
@@ -28,15 +30,16 @@ gap: 1.5vmin;
     width: 18vmin;
     border-radius: 1rem;
     border: none;
-    box-shadow: 0 0 16rem rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 16rem rgba(5, 5, 5, 0.3);
     font-size: 8vmin;
     background-color: rgb(216, 203, 178);
     color:rgb(255, 106, 0);
 }
-.reset-btn{
+#reset-btn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: black;
+    font-weight: bold;
+    background-color: rgb(17, 16, 66);
     color: white;
     border-radius: 1rem;
     border: none;
