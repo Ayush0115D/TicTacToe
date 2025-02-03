@@ -3,7 +3,8 @@ margin: 0;
 padding: 0;
 }
 body{
-    background-color: #548687;
+    background-color: #02000f;
+    color:aquamarine;
 text-align: center;
 }
 .container{
@@ -28,16 +29,16 @@ gap: 1.5vmin;
     width: 18vmin;
     border-radius: 1rem;
     border: none;
-    box-shadow: 0 0 16rem rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 16rem rgba(8, 8, 8, 0.3);
     font-size: 8vmin;
-    background-color: rgb(216, 203, 178);
-    color:red;
+    background-color: rgb(238, 240, 180);
+    color:rgb(10, 50, 228);
 }
-.reset-btn{
+#reset-btn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: black;
-    color: white;
+    background-color: rgb(179, 147, 147);
+    color: rgb(175, 32, 32);
     border-radius: 1rem;
     border: none;
 }
