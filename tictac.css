@@ -31,7 +31,7 @@ gap: 1.5vmin;
     box-shadow: 0 0 16rem rgba(0, 0, 0, 0.3);
     font-size: 8vmin;
     background-color: rgb(216, 203, 178);
-    color:red;
+    color:rgb(255, 106, 0);
 }
 .reset-btn{
     padding: 1rem;
@@ -44,13 +44,14 @@ gap: 1.5vmin;
 #new-btn {
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #191913;
-    color: #fff;
+    font-weight: bold;
+    background-color: rgb(216, 203, 178);
+    color: #0f0f0f;
     border-radius: 1rem;
     border: none;
   }
   #msg{
-    color: #f4560d;
+    color: #f4620d;
     font-size: 8vmin;
   }
   .msg-container{
